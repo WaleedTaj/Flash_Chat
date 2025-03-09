@@ -26,9 +26,9 @@ A **Flutter-based Chat App** with **real-time messaging**, user authentication, 
    flutter pub get
    ```
 3. **Set Up Firebase**:
-- Create a Firebase project.
-- Add your app and download the config files.
-- Enable Firebase Authentication & Firestore.
+   - Create a Firebase project.
+   - Add your app and download the config files.
+   - Enable Firebase Authentication & Firestore.
 4. **Run the App**:
    ```bash
    flutter run
