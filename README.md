@@ -13,7 +13,9 @@ A **Flutter-based Chat App** with **real-time messaging**, user authentication, 
 - **Sign-Out Functionality**: Securely log out with a single tap.  
 
 ## **📸 Screenshots**  
-*(Add screenshots here for better presentation.)*  
+
+<img src="https://github.com/WaleedTaj/Flash_Chat/blob/master/images/Screenshot%201.jpeg" width="200" style="margin-right: 20px;"/> <img src="https://github.com/WaleedTaj/Flash_Chat/blob/master/images/Screenshot%202.jpeg" width="200"/> <img src="https://github.com/WaleedTaj/Flash_Chat/blob/master/images/Screenshot%203.jpeg" width="200"/> <img src="https://github.com/WaleedTaj/Flash_Chat/blob/master/images/Screenshot%204.jpeg" width="200"/>
+
 
 ## **🚀 Getting Started**  
 
